@@ -16,6 +16,10 @@
 - I'm aspiring 🔭️ Back-End Developer.
 - I always like working in 🐧️**Linux** Environment.
 - I worked on legacy Bancs24 running on unix and Micro Focus COBOL. 
+- I worked as python django developer for TCS Bancs24 AML ( Anti money laundering). 
+- Proud owner of abend.co.in . 
+- Machine Learning aspirant.
+
 .
 
 <p align="right">
