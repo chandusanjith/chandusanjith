@@ -8,7 +8,9 @@
 ---
 
 <p align="center">
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+ <img align="right" alt="Coding" width="400" src="https://assets7.lottiefiles.com/packages/lf20_47dwpmff.json">
+ 
+<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">-->
 </br>
 
 ## &nbsp; &nbsp; **About Me**
