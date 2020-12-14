@@ -1,8 +1,9 @@
-### Hi there 👋
 
 
 
- <h1 align="center">️ Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm <a href="https://dnshko.github.io/">DINESH</a> </h1>
+
+ <h1 align="center">️ Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm <a href="https://chandusanjith
+.github.io/">CHANDU</a> </h1>
 
 ---
 
