@@ -13,22 +13,23 @@
 
 ## &nbsp; &nbsp; **About Me**
 
-- I'm aspiring 🔭️ Front-End Web Developer.
+- I'm aspiring 🔭️ Back-End Developer.
 - I always like working in 🐧️**Linux** Environment.
-- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+- I worked on legacy Bancs24 running on unix and Micro Focus COBOL. 
+.
 
 <p align="right">
-<a href="https://github.com/dnshko" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/dnshko" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.linkedin.com/in/dnshko/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/dnshko" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
-<a href="https://github.com/dnshko" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
+<a href="https://github.com/chandusanjith" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/chandusanjith" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
+<a href="https://www.linkedin.com/in/chandu-sanjith-0b4012196" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/chandusanjith" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
+<a href="https://github.com/chandusanjith" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
 </p></p>
 
 ---
 <!--
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnshko/)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandu-sanjith-0b4012196)
 [![Linkedin: VPA](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dnshko)
 [![website](	https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/dnshko)
 -->
