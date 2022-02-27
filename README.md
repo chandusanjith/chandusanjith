@@ -5,7 +5,6 @@
  <h1 align="center">️ Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm <a href="https://chandusanjith
 .github.io/">CHANDU</a> </h1>
 
----
 
 <p align="center">
 
@@ -17,12 +16,8 @@
 
 - I'm aspiring 🔭️ Back-End Developer.
 - I always like working in 🐧️**Linux** Environment.
-- I worked on legacy Bancs24 running on unix and Micro Focus COBOL. 
+- Working as Software Engineer in Flipkart Wholesale supply chain. 
 - I worked as python django developer for TCS Bancs24 AML ( Anti money laundering). 
-- Proud owner of abend.co.in . 
-- Machine Learning aspirant.
-
-.
 
 <p align="right">
 <a href="https://github.com/chandusanjith" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
